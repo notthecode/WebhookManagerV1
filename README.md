@@ -20,9 +20,11 @@ In order to setup you must include a couple of key componets.
 `local WebhookManager = require(ReplicatedStorage.WebhookManager)`
 
 --> Setup your URL
+
 `local InitialURL = WebhookManager:SetupInitialURL(URL)`
 
 --> Sending notification
+
 `WebhookManager.CreateMessage(InitialURL, Message)`
 
 That's all for now hope you enjoy :D

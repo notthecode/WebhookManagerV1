@@ -8,7 +8,7 @@ I say this because from my research Discord has banned any requests coming from 
 
 CODE ITSELF
 
-`https://github.com/notthecode/WebhookManagerV1/main/WebhookManager.lua`
+https://github.com/notthecode/WebhookManagerV1/main/WebhookManager.lua
 
 FEATURES (must be a string)
   - username (Change or set the name of the webhook bot)

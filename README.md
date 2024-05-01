@@ -7,7 +7,8 @@ This is quite literally the bare minimum way of making a webhook without using a
 I say this because from my research Discord has banned any requests coming from ROBLOX. Meaning embeds cannot be used.
 
 CODE ITSELF
-https://github.com/github/notthecode/WebhookManagerV1/main/WebhookManager.lua
+
+`https://github.com/notthecode/WebhookManagerV1/main/WebhookManager.lua`
 
 FEATURES (must be a string)
   - username (Change or set the name of the webhook bot)

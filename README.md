@@ -6,6 +6,9 @@ The webhook manager allows you to send Discord notifications from your ROBLOX ga
 This is quite literally the bare minimum way of making a webhook without using a proxy.
 I say this because from my research Discord has banned any requests coming from ROBLOX. Meaning embeds cannot be used.
 
+CODE ITSELF
+https://github.com/github/notthecode/WebhookManagerV1/main/WebhookManager.lua
+
 FEATURES (must be a string)
   - username (Change or set the name of the webhook bot)
   - avatar_url (Change or set the profile picture of the webhook bot)
@@ -14,7 +17,6 @@ FEATURES (must be a string)
 In order to use you must place WebhookManager inside ReplicatedStorage.
 
 In order to setup you must include a couple of key componets.
-
 --> Require the WebhookManager.
 
 `local WebhookManager = require(ReplicatedStorage.WebhookManager)`

@@ -16,6 +16,7 @@ In order to use you must place WebhookManager inside ReplicatedStorage.
 In order to setup you must include a couple of key componets.
 
 --> Require the WebhookManager.
+
 `local WebhookManager = require(ReplicatedStorage.WebhookManager)`
 
 --> Setup your URL

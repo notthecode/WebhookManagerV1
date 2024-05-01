@@ -28,4 +28,5 @@ In order to setup you must include a couple of key componets.
 `WebhookManager.CreateMessage(InitialURL, Message)`
 
 That's all for now hope you enjoy :D
--- @WatchDogsPlayz (May 2024)
+
+-- @notthecode (May 2024)

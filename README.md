@@ -4,7 +4,7 @@ Bare minimum Discord webhook for ROBLOX.
 
 What exactly does the WebhookManager do?
 
-The webhook manager allows you to send Discord notifications from your ROBLOX game to your Discord server!
+The WebhookManager allows you to send Discord notifications from your ROBLOX game to your Discord server!
 
 This is quite literally the bare minimum way of making a webhook without using a proxy.
 
